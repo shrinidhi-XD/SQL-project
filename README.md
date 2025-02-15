@@ -1,5 +1,5 @@
 # SQL-project
-I have done this project for educational purpose.
+I have done this project for my educational purpose.
 This project is a SQL-based analysis of Fassos' sales data, and zomato which I worked on with the help of Ashutosh Kumar's YouTube tutorials
 https://youtube.com/playlist?list=PLbTF1OfX62c1wb8fsf_n1kQGOi2YEM3no. The goal was to explore and analyze sales trends using SQL queries to extract key business insights.
 
