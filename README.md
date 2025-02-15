@@ -11,8 +11,8 @@ https://youtube.com/playlist?list=PLbTF1OfX62c1wb8fsf_n1kQGOi2YEM3no. The goal w
  
 -Aggregation Functions – SUM(), AVG(), COUNT() for revenue and order analysis
 
-- Window Functions – RANK(), DENSE_RANK(), ROW_NUMBER() for ranking top-selling items
-- 
+-Window Functions – RANK(), DENSE_RANK(), ROW_NUMBER() for ranking top-selling items
+ 
 -String Functions – UPPER(), LOWER(), CONCAT() for formatting and cleaning data
 
 -Date Functions – YEAR(), MONTH(), DATEDIFF() to analyze sales over time
