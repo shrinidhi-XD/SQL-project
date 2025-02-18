@@ -1,7 +1,6 @@
 # SQL-project
 I have done this project for my educational purpose.
-This project is a SQL-based analysis of Fassos' sales data, and zomato which I worked on with the help of Ashutosh Kumar's YouTube tutorials
-https://youtube.com/playlist?list=PLbTF1OfX62c1wb8fsf_n1kQGOi2YEM3no. The goal was to explore and analyze sales trends using SQL queries to extract key business insights.
+This project is a SQL-based analysis of Fassos' sales data, and zomato which I worked on, The goal was to explore and analyze sales trends using SQL queries to extract key business insights.
 
  What I Did:-
  Data Cleaning & Transformation – Organized raw sales data for better analysis  Sales Performance Analysis – Identified top-selling items and revenue trends
